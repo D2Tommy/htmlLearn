@@ -1,3 +1,3 @@
 function onClick()  {
-    alert("点击了!");
+    alert("真的可以点击!");
 }
